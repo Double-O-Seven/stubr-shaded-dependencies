@@ -6,7 +6,7 @@
 
     <groupId>ch.leadrian.stubr</groupId>
     <artifactId>stubr-shaded-dependencies</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>Stubr (stubr-shaded-dependencies)</name>
     <description>Shaded dependencies for stubr library</description>
     <url>https://github.com/Double-O-Seven/stubr-shaded-dependencies</url>
@@ -32,6 +32,12 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>9</version>
+    </parent>
 
     <dependencies>
         <dependency>
