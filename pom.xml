@@ -5,8 +5,29 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.leadrian.stubr</groupId>
-    <artifactId>stubr-shaded-guava</artifactId>
-    <version>29.0</version>
+    <artifactId>stubr-shaded-dependencies</artifactId>
+    <version>1.0.0</version>
+    <name>Stubr (stubr-shaded-dependencies)</name>
+    <description>Shaded dependencies for stubr library</description>
+    <url>https://github.com/Double-O-Seven/stubr-shaded-dependencies</url>
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>Double-O-Seven</id>
+            <name>Adrian-Philipp Leuenberger</name>
+            <email>thewishwithin@gmail.com</email>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:git://github.com/Double-O-Seven/stubr-shaded-dependencies.git</connection>
+        <developerConnection>scm:git:ssh://github.com/Double-O-Seven/stubr-shaded-dependencies.git</developerConnection>
+        <url>https://github.com/Double-O-Seven/stubr-shaded-dependencies</url>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
