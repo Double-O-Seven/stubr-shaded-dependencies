@@ -63,11 +63,11 @@
                             <relocations>
                                 <relocation>
                                     <pattern>com.google.common</pattern>
-                                    <shadedPattern>ch.leadrian.stubr.com.google.common</shadedPattern>
+                                    <shadedPattern>ch.leadrian.stubr.internal.com.google.common</shadedPattern>
                                 </relocation>
                                 <relocation>
                                     <pattern>com.google.thirdparty</pattern>
-                                    <shadedPattern>ch.leadrian.stubr.com.google.thirdparty</shadedPattern>
+                                    <shadedPattern>ch.leadrian.stubr.internal.com.google.thirdparty</shadedPattern>
                                 </relocation>
                             </relocations>
                             <artifactSet>
