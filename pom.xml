@@ -24,8 +24,8 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/Double-O-Seven/stubr-shaded-dependencies.git</connection>
-        <developerConnection>scm:git:ssh://github.com/Double-O-Seven/stubr-shaded-dependencies.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/Double-O-Seven/stubr-shaded-dependencies.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/Double-O-Seven/stubr-shaded-dependencies.git</developerConnection>
         <url>https://github.com/Double-O-Seven/stubr-shaded-dependencies</url>
     </scm>
 
