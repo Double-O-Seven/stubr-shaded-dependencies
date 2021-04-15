@@ -2,10 +2,12 @@
 [![Release Version](https://img.shields.io/maven-central/v/ch.leadrian.stubr/stubr-shaded-dependencies.svg?label=release)](https://search.maven.org/search?q=g:ch.leadrian.stubr%20AND%20a:stubr-shaded-dependencies)
 
 # stubr-shaded-dependencies
+
 Shaded dependencies for [stubr](https://github.com/Double-O-Seven/stubr) to avoid version conflicts.
 
 The following dependencies are shaded:
-* `com.google.guava:guava:29.0-jre`
+
+* `com.google.guava:guava:30.1.1-jre`
 
 ## Publishing steps
 
